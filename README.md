@@ -1,5 +1,5 @@
 # todoListApi
-In this repo I want to show you how to implement an easy **RESTful API** in **Node.js**.
+In this repository I want to show you how to implement an easy **RESTful API** in **Node.js**.
 
 ## Installation
 ```bash
@@ -12,9 +12,9 @@ $ npm init
 ```bash
 $ npm run start
 ```
-RESTful API is now running in your localhost with port 3000.
+RESTful API is now running in your localhost at port 3000.
 
-In this demo are 2 endpoints: `/tasks` and `/tasks/:taskId`
+There are 2 endpoints in this demo: `/tasks` and `/tasks/:taskId`
 
 | Endpoint      | Method        | Description  |
 | ------------- | ------------- | ----- |
@@ -67,7 +67,7 @@ $.ajax(settings).done(function (response) {
 });
 ```
 
-\* If you need other languages example ask me to put them in README.md
+\* If you need other language examples ask me to put them in README.md
 
 ## Acknowledgements
 
