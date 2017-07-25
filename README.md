@@ -68,3 +68,7 @@ $.ajax(settings).done(function (response) {
 ```
 
 \* If you need other languages example ask me to put them in README.md
+
+## Acknowledgements
+
+[Build Node.js RESTful APIs in 10 Minutes](https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd)
